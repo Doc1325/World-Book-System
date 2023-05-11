@@ -1,0 +1,20 @@
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\bin\Debug\net6.0-windows\World Book System.exe
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\bin\Debug\net6.0-windows\World Book System.deps.json
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\bin\Debug\net6.0-windows\World Book System.runtimeconfig.json
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\bin\Debug\net6.0-windows\World Book System.dll
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\bin\Debug\net6.0-windows\ref\World Book System.dll
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\bin\Debug\net6.0-windows\World Book System.pdb
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\obj\Debug\net6.0-windows\World Book System.csproj.AssemblyReference.cache
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\obj\Debug\net6.0-windows\World_Book_System.Form1.resources
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\obj\Debug\net6.0-windows\World Book System.csproj.GenerateResource.cache
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\obj\Debug\net6.0-windows\World Book System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\obj\Debug\net6.0-windows\World Book System.AssemblyInfoInputs.cache
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\obj\Debug\net6.0-windows\World Book System.AssemblyInfo.cs
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\obj\Debug\net6.0-windows\World Book System.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\obj\Debug\net6.0-windows\World Book System.dll
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\obj\Debug\net6.0-windows\ref\World Book System.dll
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\obj\Debug\net6.0-windows\World Book System.pdb
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\obj\Debug\net6.0-windows\World Book System.genruntimeconfig.cache
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\obj\Debug\net6.0-windows\World_Book_System.Properties.Resources.resources
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\obj\Debug\net6.0-windows\World_Book_System.Procesos.resources
+C:\Users\domin\Desktop\DISEÑO DE LA BASE DE DATOS Y EL SISTEMA\World Book System\World Book System\obj\Debug\net6.0-windows\World_Book_System.Resources.Consultas.resources
